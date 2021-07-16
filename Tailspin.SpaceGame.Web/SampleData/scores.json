@@ -174,4 +174,11 @@
     "gameMode": "Duo",
     "gameRegion": "Ring Nebula"
   }
+  {
+    "id": "26",
+    "profileId": "6",
+    "score": 104042,
+    "gameMode": "Duo2",
+    "gameRegion": "Ring Nebula2"
+  }
 ]
